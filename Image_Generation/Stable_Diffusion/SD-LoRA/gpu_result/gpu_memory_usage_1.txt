@@ -1,0 +1,10 @@
+GPU Memory - Allocated: 0.00 GB, Cached: 0.00 GB, Time : 8.81444263458252 seconds , Loss : 0.5269471257925034, CLIP Score : 0.274427205324173, Epoch: 1
+GPU Memory - Allocated: 0.00 GB, Cached: 0.00 GB, Time : 7.839391231536865 seconds , Loss : 0.3503524549305439, CLIP Score : 0.25167036056518555, Epoch: 2
+GPU Memory - Allocated: 0.00 GB, Cached: 0.00 GB, Time : 9.00677227973938 seconds , Loss : 0.3328311908990145, CLIP Score : 0.26305755972862244, Epoch: 3
+GPU Memory - Allocated: 7.00 GB, Cached: 18.07 GB, Time : 8.974174737930298 seconds , Loss : 0.27551407739520073, CLIP Score : 0.24704323709011078, Epoch: 4
+GPU Memory - Allocated: 7.00 GB, Cached: 18.07 GB, Time : 7.539817810058594 seconds , Loss : 0.24965141527354717, CLIP Score : 0.2529701888561249, Epoch: 5
+GPU Memory - Allocated: 7.00 GB, Cached: 18.07 GB, Time : 7.565876245498657 seconds , Loss : 0.1502694245427847, CLIP Score : 0.23598018288612366, Epoch: 6
+GPU Memory - Allocated: 7.00 GB, Cached: 18.07 GB, Time : 7.737931966781616 seconds , Loss : 0.12229713518172503, CLIP Score : 0.26492056250572205, Epoch: 7
+GPU Memory - Allocated: 7.00 GB, Cached: 18.07 GB, Time : 7.737814664840698 seconds , Loss : 0.10347075993195176, CLIP Score : 0.25446566939353943, Epoch: 8
+GPU Memory - Allocated: 7.00 GB, Cached: 18.07 GB, Time : 7.688331365585327 seconds , Loss : 0.08065276220440865, CLIP Score : 0.243677020072937, Epoch: 9
+GPU Memory - Allocated: 7.00 GB, Cached: 18.07 GB, Time : 7.610315799713135 seconds , Loss : 0.07283279718831182, CLIP Score : 0.263553649187088, Epoch: 10
